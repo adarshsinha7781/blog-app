@@ -1,0 +1,1 @@
+This is a blogging website. You can log in/signup and also create your own User accounts. You can also post a blog, edit an already posted blog or delete it. The user can also update their profile picture or remove it.It includes all the CRUD functionalities.
